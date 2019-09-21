@@ -1,0 +1,28 @@
+body{
+    padding: 50px;
+}
+header{
+    text-align: center;
+}
+figcaption{
+    background: rgba(128, 128, 128, 0.37);
+}
+h1{
+    color: aliceblue;
+    background: black;
+}
+b{
+    color: blue;
+    text-decoration-line: underline;
+}
+
+label{
+    color: green;
+}
+p{
+    background: rgba(197, 193, 193, 0.541);
+}
+h2{
+    color: brown;
+    background: rgba(197, 193, 193, 0.541);
+}
